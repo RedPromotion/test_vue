@@ -1,0 +1,1 @@
+import{_ as a,c as s,w as n,V as o,o as r,a as t}from"./index-BGDeU5i0.js";const c={};function i(l,e){return r(),s(o,{fluid:"",class:"pt-8"},{default:n(()=>e[0]||(e[0]=[t("h1",null,"Vue + Vuetify + Pinia + TypeScript",-1),t("p",null,"예제페이지 활용",-1)])),_:1,__:[0]})}const f=a(c,[["render",i]]);export{f as default};
